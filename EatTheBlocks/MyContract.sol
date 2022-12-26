@@ -21,16 +21,18 @@ contract MyContract {
         string name;
         uint[] friendIds; 
     }
+
     enum Color {
         RED,
         GREEN,
         BLUE
     }
-    
+
     // 4. functions
     function getValue() external view returns(uint) { // "view" is read-only
         return value;
     }
+
     function setValue(uint _value) external {
         value = _value;
     }
