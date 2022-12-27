@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_name",
+						"type": "string"
+					}
+				],
+				"name": "foo",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"EatTheBlocks/MyContract3.sol": "MyContract3"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"EatTheBlocks/MyContract3.sol": {
+			"keccak256": "0xe729a91d94c550c5633f92d73360df8143de7047b90a9242d9461601405a5aab",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://a520913dbf34e43da5ea67dfa00dfb0a8d37c784b9e7ffd0b8bba02e45793c7d",
+				"dweb:/ipfs/QmRiyz2keZNsNDb9QqQNnwHpDRfXowVahtrN75AaeyYboy"
+			]
+		}
+	},
+	"version": 1
+}
