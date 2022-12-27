@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.14+commit.80d49f37"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "GetHelloWorld",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"EatTheBlocks/HelloWorld.sol": "HelloWorld"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"EatTheBlocks/HelloWorld.sol": {
+			"keccak256": "0x8494bee575209fbcc225cfdb69fdee3298810f65f23791f963b77e5eca0bda26",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2d44baa35bc772b5359aac352f1dd7b038fedfee167a1608e01e13e88414bd3e",
+				"dweb:/ipfs/QmZS4YpL8vJy92YpC3pdQCT5cLGkhCbQeinLpQM3xNmivN"
+			]
+		}
+	},
+	"version": 1
+}
