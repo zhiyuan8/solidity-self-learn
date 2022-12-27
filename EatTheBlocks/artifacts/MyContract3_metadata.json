@@ -8,6 +8,19 @@
 			{
 				"inputs": [
 					{
+						"internalType": "uint256[]",
+						"name": "_users",
+						"type": "uint256[]"
+					}
+				],
+				"name": "foo",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
 						"internalType": "string",
 						"name": "_name",
 						"type": "string"
@@ -47,11 +60,11 @@
 	},
 	"sources": {
 		"EatTheBlocks/MyContract3.sol": {
-			"keccak256": "0xe729a91d94c550c5633f92d73360df8143de7047b90a9242d9461601405a5aab",
+			"keccak256": "0xc4b1a7d8bc792fc42c2ad388640e41b2f070bbc3e02a447afa85e4abe66650c0",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://a520913dbf34e43da5ea67dfa00dfb0a8d37c784b9e7ffd0b8bba02e45793c7d",
-				"dweb:/ipfs/QmRiyz2keZNsNDb9QqQNnwHpDRfXowVahtrN75AaeyYboy"
+				"bzz-raw://9a80b39d777e4ce14de85888a5a7d2f16a25f32a0713059655caa7a737b5c803",
+				"dweb:/ipfs/QmaP7DJ2DWBxEwCfavft7SanVyfNuJTrid8MjFzAfVncqp"
 			]
 		}
 	},
